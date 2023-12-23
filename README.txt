@@ -1,0 +1,1 @@
+Mini-projects done as part of the Scrimba Learn React course.
